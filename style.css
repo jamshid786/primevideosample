@@ -1,0 +1,245 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Amazon Ember', sans-serif;
+}
+
+.menu{
+    padding-left: 45px;
+    display: flex;
+    text-decoration: none;
+}
+
+.navbar{
+    display: flex;
+   color: white;
+    background-color: black;
+    
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-bottom: 70px;
+}
+
+.link{
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 55px;
+    font-size: 14px;
+   font-weight: lighter;
+    font-family: 'Amazon Ember', sans-serif;
+
+}
+
+.bg-image{
+    background-color: black;
+}
+
+.imgstyle{
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.subscriptionsimage{
+margin-right: 70px;
+}
+
+.subscriptiontext{
+    color: white;
+    font-family: 'Amazon Ember', sans-serif;
+    margin-left: 70px;
+}
+
+.subscriptiontext h2{
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    
+}
+
+.subscriptiontext p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.footer{
+background-color: #222222;
+
+padding-top: 20px;
+padding-bottom: 30px;
+display: grid;
+justify-content: center;
+align-items: center;
+
+}
+
+.footerlink{
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #79B7F3;
+    
+}
+
+.footer h6{
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.footer img{
+    margin-left: 160px;
+    margin-bottom: 5px;
+}
+
+.bannertext{
+    
+    position: absolute;
+    top: 0;
+    padding-top: 60px;
+    padding-bottom: 150px;
+    padding-right: 150px;
+    padding-left: 80px;
+    background-image: linear-gradient(to right,
+        rgba(0,0,0,1) 88.5%,
+        rgba(0,0,0,0) 100%);
+    
+
+}
+
+.bannercard{
+    position: relative;
+    top: 0;
+    max-width: 100%;
+    
+}
+
+.bannertext h3{
+    font-family: 'Amazon Ember', sans-serif;
+   
+    
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.bannertext h4{
+    font-family: 'Amazon Ember', sans-serif;
+    padding-top: 50px;
+   
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.bannertext2{
+    position: absolute;
+    top: 0;
+    padding-top: 5px;
+    padding-bottom: 220px;
+    padding-right: 150px;
+    padding-left: 80px;
+    background-image: linear-gradient(to right,
+        rgba(0,0,0,1) 98.5%,
+        rgba(0,0,0,0) 100%);
+
+
+}
+
+.bannercard2{
+    position: relative;
+    
+   
+    
+}
+
+.bannertext2 h3{
+    font-family: 'Amazon Ember', sans-serif;
+    padding-top: 70px;
+    
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.bannertext2 h4{
+    font-family: 'Amazon Ember', sans-serif;
+    padding-top: 60px;
+    
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.btn1{
+    
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 12px;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.btn2{
+   
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 12px;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.joinbtn{
+    margin-top: -15px;
+    margin-left: 40px;
+    font-family: 'Amazon Ember', sans-serif;
+    background-color: #147BCF;
+    border-color: 147BCF;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 12px 20px;
+}
+
+
+.navbtn{
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.magnify{
+    margin-left: 400px;
+}
+
+.grip{
+    margin-left: 30px;
+}
+
+.user{
+    margin-top: -5px;
+    margin-left: 30px;
+}
+
+.en{
+    margin-top: -2px;
+    margin-left: 30px;
+}
